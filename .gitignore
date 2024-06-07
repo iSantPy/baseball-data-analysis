@@ -1,0 +1,23 @@
+# Ignorar directorios de checkpoints de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar archivos compilados de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos de configuración de entorno virtual de Python
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignorar archivos de configuración de editor
+.idea/
+.vscode/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
